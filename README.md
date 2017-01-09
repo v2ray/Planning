@@ -5,4 +5,4 @@ This repository is used for discussion on V2Ray development, include general fea
 Pull requests NOT accepted.
 Meaningless issues will be closed immediately without notice.
 
-本 repo 用于 V2Ray 开发的计论，包括对于新功能的讨论，以及和其它项目的合作等。无关的 issue 会被直接关闭。不接受 PR。
+本 repo 用于 V2Ray 开发计划，包括对于新功能的讨论，以及和其它项目的合作等。无关的 issue 会被直接关闭。不接受 PR。
